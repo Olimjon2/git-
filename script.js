@@ -1,3 +1,2 @@
 document.body.innerHTML= '<h1>Hello from JavaScript</h1>';
-console.log('test 2');
-console.log('test 3');
+console.log('Hello Olimjon');
